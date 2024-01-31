@@ -11,4 +11,5 @@ Useful links:
   > ℹ️ **Please note:** Your browser might flag this page as unsafe due to it being a development environment without a certified SSL certificate.
 - [Code](https://github.com/Workflomics/workflomics-frontend)
 
+- [Documentation](https://workflomics.readthedocs.io/en/latest/?badge=latest)
 
