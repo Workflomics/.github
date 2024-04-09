@@ -16,7 +16,7 @@ Useful links:
 
 ## Architecture
 
-![architecture_workflomics](https://github.com/Workflomics/.github/blob/main/Workflomics_architecture.png)
+![architecture_workflomics](https://github.com/Workflomics/.github/blob/main/draw.io/architecture.png)
 Architecture Overview of the Workflomics Platform.
 
 
