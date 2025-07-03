@@ -13,9 +13,8 @@ The following video explains Workflomics in 10 minutes:
 
 ### Useful links:
 
-- [Live demo](http://145.38.190.48/) instance
+- [Live demo](https://workflomics.soft.cs.uni-potsdam.de/) instance
   
-  > ℹ️ **Please note:** Your browser might flag this page as unsafe due to it being a development environment without a certified SSL certificate.
 - [Code (front-end)](https://github.com/Workflomics/workflomics-frontend)
 
 - [Documentation (readthedocs)](https://workflomics.readthedocs.io/en/latest/?badge=latest)
